@@ -1,0 +1,11 @@
+pageController:
+  msg: "Hello from application.yml"
+  foo: "foo"
+  bar: "bar"
+
+myConfig:
+  app-name: Configuration Properties
+  app-description: ${myconfig.app-name} is a Spring Boot Application
+  admin-first-name: Unejsi
+  admin-last-name: Isufaj
+  adminEmail: unejsi@gmail.com

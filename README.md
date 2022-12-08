@@ -1,1 +1,1 @@
-# springboot_training
+# springboot-training
